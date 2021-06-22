@@ -7,11 +7,11 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gradelyng/testRepo/repo/config"
-	"github.com/gradelyng/testRepo/repo/http/handlers"
-	"github.com/gradelyng/testRepo/repo/internal/dao/orm"
-	"github.com/gradelyng/testRepo/repo/internal/dao/raw"
-	"github.com/gradelyng/testRepo/repo/internal/models"
+	"github.com/IamNator/testRepo/repo/config"
+	"github.com/IamNator/testRepo/repo/http/handlers"
+	"github.com/IamNator/testRepo/repo/internal/dao/orm"
+	"github.com/IamNator/testRepo/repo/internal/dao/raw"
+	"github.com/IamNator/testRepo/repo/internal/models"
 )
 
 func createRandUsers() (users []models.User) {

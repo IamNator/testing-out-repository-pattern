@@ -1,4 +1,4 @@
-module github.com/gradelyng/testRepo/repo
+module github.com/IamNator/testRepo/repo
 
 go 1.16
 

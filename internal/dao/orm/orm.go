@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gradelyng/testRepo/repo/config"
-	"github.com/gradelyng/testRepo/repo/internal/models"
+	"github.com/IamNator/testRepo/repo/config"
+	"github.com/IamNator/testRepo/repo/internal/models"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"

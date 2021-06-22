@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/gradelyng/testRepo/repo/internal/models"
-	"github.com/gradelyng/testRepo/repo/internal/repo"
+	"github.com/IamNator/testRepo/repo/internal/models"
+	"github.com/IamNator/testRepo/repo/internal/repo"
 )
 
 //Handler ...

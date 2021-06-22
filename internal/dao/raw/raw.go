@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gradelyng/testRepo/repo/config"
-	"github.com/gradelyng/testRepo/repo/internal/models"
+	"github.com/IamNator/testRepo/repo/config"
+	"github.com/IamNator/testRepo/repo/internal/models"
 )
 
 //Raw takes a pointer to sql connection

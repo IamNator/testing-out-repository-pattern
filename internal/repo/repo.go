@@ -1,6 +1,6 @@
 package repo
 
-import "github.com/gradelyng/testRepo/repo/internal/models"
+import "github.com/IamNator/testRepo/repo/internal/models"
 
 //Repo for database operations
 type Repo interface {
